@@ -1,0 +1,922 @@
+body {
+    margin: 0;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+/* header | 1st part */
+#container-1 {
+    padding: 20px;
+    margin: 0 0 100px;
+}
+
+#container-1  ul li {
+    display: inline-block;
+    margin: 0px 15px;
+    font-weight: bold;
+}
+
+#container-1  ul li a {
+    color: gray;
+}
+
+#contact-number {
+    color: white;
+    background-color: #001c8b;
+    padding: 10px 25px;
+    font-weight: bold;
+}
+
+#container-1  div {
+    display: inline-block;
+}
+
+#container-1 .logo {
+    width: 20%;
+}
+
+#container-1 .menu {
+    width: 59%;
+}
+
+#container-1 .menu ul {
+    text-align: center;
+}
+
+#container-1 .contact {
+    width: 20%;
+    text-align: center;
+}
+
+/* end of 1st part */
+
+
+
+/*2nd part*/
+
+#container-2 {
+    background-image: url("im3.jpg");
+    background-size: cover;
+    padding: 80px 0px;
+    margin: 100px 0;
+}
+
+.div-1 {
+    width: 35%;
+    margin: 100px;
+}
+
+#container-2 .div-1 #pre-1 {
+    color: blue;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+
+#container-2 .div-1 h1 {
+    font-size: 50px;
+    font-weight: bold;
+    width: 65%;
+    margin: 20px 0;
+}
+
+#container-2 .div-1 p {
+    font-size: 14px;
+    margin: 20px 0;
+}
+
+#container-2 .div-1 #learn-about {
+    color: white;
+    background-color: #041042;
+    margin: 20px 0;
+    padding: 10px 25px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+
+/*end of 2nd part*/
+
+
+
+
+
+
+
+
+/* 3rd part*/
+#container-3 {
+    padding: 20px;
+}
+
+#container-3 .div-1 {
+    width: 35%;
+    margin: 100px 0;   
+    font-size: 30px; 
+}
+
+#container-3 .div-1 pre {
+    color: blue;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+#container-3 .div-1 h2 {
+    color: #041042;
+}
+
+#container-3 .div-2 i {
+    color: royalblue;
+    font-size: 60px;
+    margin: 0 0 20px;
+}
+
+#container-3 .div-2 div {
+    width: 21%;
+    margin-right: 2%;
+    border: 1px solid black;
+    padding: 80px;
+    display: inline-block;
+    height: 300px;
+}
+
+#container-3 .div-2 div h3 {
+    color: #041042;
+    margin: 30px 0;
+}
+
+#container-3 .div-2 div p {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.637);
+    margin: 30px 0;
+}
+
+
+/*end of 3rd part*/
+
+
+
+
+
+
+
+
+/*4th part*/
+#container-4 {
+    padding: 0;
+    margin: 100px 0 0;
+}
+
+#container-4 .div-1 {
+    padding: 0;
+    margin: 0;
+    width: 50%;
+    float: left;
+}
+
+#container-4 .div-2 {
+    background-color: rgb(54 95 227);
+    width: 42%;
+    display: inline-block;
+    color: white;
+    padding: 0 4%;
+    margin: 0;
+    height: 732px;
+}
+
+#container-4 .div-2 pre {
+    font-size: 18px;
+    margin: 50px 0;
+}
+
+#container-4 .div-2 h1 {
+    width: 50%;
+    margin: 50px 0;
+}
+
+#container-4 .div-2 .p-1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#container-4 .div-2 .p-2 {
+    font-size: 14px;
+    margin: 50px 0;
+    color: rgba(221, 214, 214, 0.637);
+}
+
+#container-4 .div-2 a {
+    color: white;
+    background-color: #041042;
+    margin: 80px 0 0;
+    padding: 10px 25px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+/* end of 4th part */
+
+
+
+
+/* 5th part */
+
+#container-5 {
+    margin: 0 0 100px;
+    background-color: rgb(190, 222, 235);
+    height: 900px;
+    position: relative;
+}
+
+
+#container-5 .main-div {
+    background-image: url("im15.png");
+    background-size: cover;
+    margin: 100px 20% 0;
+    height: 700px;
+    position: absolute;
+    padding: 100px;
+}
+
+#container-5 .main-div .div-1 {
+    color: white;
+    margin: 0 70px;
+    width: 60%;
+}
+
+#container-5 .main-div .div-1 pre {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+#container-5 .main-div .div-1 h1 {
+    font-size: 50px;
+    margin: 20px 0;
+}
+
+#container-5 .main-div .div-2 {
+    margin: 0px;
+    width: 100%;
+    position: relative;
+    margin: 100px 0 0;
+}
+
+#container-5 .main-div .div-2 form {
+    position: absolute;
+    margin: 0 70px;
+}
+
+
+#container-5 .main-div .div-2 input {
+    display: inline-block;
+    width: 230px;
+    height: 40px;
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px 5px 10px 0;
+}
+
+#container-5 .main-div .div-2 select {
+    display: inline-block;
+    width: 254px;
+    height: 64px;
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px 5px 10px 0;
+}
+
+#container-5 .main-div .div-2 textarea {
+    width: 415px;
+    padding: 20px 50px;
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+#container-5 .main-div .div-2 input[type="submit"] {
+    width: 517px;
+    background-color: rgb(4, 16, 66);
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    margin: 10px 0;
+}
+/*end of 5th part*/
+
+
+
+
+/* 6th part */
+#container-6 {
+    margin: 200px 100px;
+}
+
+#container-6 .main-div-1 {
+    margin: 50px 0;
+    display: inline-block;
+}
+
+#container-6 .main-div-1 .div-1 {
+    float: left;
+    margin: 0 70px 0 0;
+    width: 45%;
+}
+
+#container-6 .main-div-1 .div-1 pre {
+    font-size: 20px;
+    color: #001c8b;
+}
+
+#container-6 .main-div-1 .div-1 h1 {
+    color: #041042;
+    font-size: 50px;
+    margin: 0;
+}
+
+#container-6 .main-div-1 .div-2 {
+    float: left;
+    margin: 150px 0 150px 100px;
+    width: 40%;
+}
+
+#container-6 .main-div-1 .div-2 ul li {
+    display: inline-block;
+    margin: 0 0 0 40px;
+    font-weight: bold;
+}
+
+#container-6 .main-div-1 .div-2 ul li a {
+    color: rgba(0, 0, 0, 0.527);
+}
+
+
+
+#container-6 .main-div-2 {
+    margin: 50px 0;
+    display: inline-block;
+}
+
+#container-6 .main-div-2 .div-1 {
+    background-image: url("im4.png");
+    background-size: cover;
+    float: left;
+    width: 45%;
+    margin: 0 5% 100px 0;
+
+}
+
+#container-6 .main-div-2 .div-2 {
+    background-image: url("im5.png");
+    background-size: cover;
+    float: left;
+    width: 45%;
+    margin: 0 0 100px 5%;
+}
+
+#container-6 .main-div-2 .div-3 {
+    background-image: url("im6.png");
+    background-size: cover;
+    float: left;
+    width: 45%;
+    margin: 0 5% 0 0;
+}
+
+#container-6 .main-div-2 .div-4 {
+    background-image: url("im7.png");
+    background-size: cover;
+    float: left;
+    width: 45%;
+    margin: 0 0 0 5%;
+}
+
+
+
+#container-6 .main-div-2 div {
+    margin: 400px 0 0;
+    background-color: rgb(213, 235, 234);
+    width: 80%;
+    float: left;
+}
+/* end of 6th part */
+
+
+
+
+
+
+/* 7th part */
+#container-7 {
+    background-image: url("im15.png");
+    background-size: cover;
+    padding: 5%;
+    margin: 150px 0;
+}
+
+#container-7 h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0 25% 0 0;
+    width: 40%;
+    display: inline-block;
+}
+
+#container-7 a {
+    color: white;
+    background-color: #041042;
+    margin: 0 0 0 25%;
+    padding: 10px 25px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+/* end of 7th part */
+
+
+
+
+/* 8th part */
+
+#container-8 {
+    margin: 150px 0 150px 5%;
+}
+
+#container-8 .div-1 {
+    margin: 50px 0;
+}
+
+#container-8 .div-1 pre {
+    font-size: 20px;
+    /* font-weight: 600; */
+    color: #001c8b;
+}
+
+#container-8 .div-1 h2 {
+    font-size: 50px;
+    color: #041042;
+    margin: 20px 0;
+    width: 80%; 
+}
+
+#container-8 .div-2 div{
+    margin: 0 1.5% 0 0;
+    width: 30%;    
+    display: inline-block;
+    background-color: rgb(225, 234, 238);
+}
+
+#container-8 .div-2 div img {
+    width: 100%;
+}
+
+#container-8 .div-2 div h3 {
+    color: #041042;
+    font-size: 30px;
+    margin: 50px 0 10px 50px;
+}
+
+#container-8 .div-2 div pre {
+    color: #001c8b;
+    font-size: 14px;
+    margin: 10px 0 50px 50px;
+}
+
+/* end of 8th part */
+
+
+
+
+
+/* 9th part */
+#container-9 {
+    background-image: url("im11.png");
+    background-size: cover;
+    padding: 50px;
+    text-align: center;
+    margin: 150px 0;
+}
+
+#container-9 .div-1 {
+    color: white;
+    width: 100%;
+    margin: 0;
+    display: inline-block;
+}
+
+#container-9 .div-1 h1 {
+    margin: 0 20% 0;
+    font-size: 200px;
+    font-weight: bold;
+    font-family: sans-serif;
+    height: 100px;
+    float: left;
+    width: 50%;
+}
+
+#container-9 .div-1 p{
+    font-size: 30px;
+    color: rgba(221, 214, 214, 0.637);
+    margin: 0;
+    /* padding: 100px; */
+    /* float: left; */
+    margin: 0 5% 0;
+    width: 85%;
+}
+
+#container-9 .div-1 div {
+    border: rgba(170, 165, 165, 0.63) solid 2px;
+    width: 2%;
+    height: 30px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-family: monospace;
+    float: left;
+    margin: 250px 0 0 0;
+}
+
+#container-9 .div-1 div a {
+    color: rgba(170, 165, 165, 0.637);
+}
+
+
+#container-9 .div-2 {
+    margin: 100px;
+    display: inline-block;
+}
+
+#container-9 .div-2 img {
+    float: left;
+    margin-right: 30px;
+}
+
+#container-9 .div-2 h2 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    float: left;
+    margin: 0 0 10px;
+}
+
+#container-9 .div-2 p {
+    color: rgb(156, 151, 151);
+    font-size: 20px;
+    margin: 0;
+    padding: 60px;
+}
+/* end of 9th part */
+
+
+
+
+
+
+/* 10th part */
+
+#container-10 {
+    margin: 150px 0;
+    padding: 50px;
+}
+
+#container-10 .div-1 {
+    margin: 50px 0;
+}
+
+#container-10 .div-1 pre {
+    font-size: 20px;
+    color: #001c8b;
+}
+
+#container-10 .div-1 h2 {
+    font-size: 40px;
+    color: #041042;
+    margin: 20px 0;
+    width: 100%; 
+}
+
+#container-10 .div-2 {
+    display: inline-block;
+}
+
+
+/* div-2a */
+#container-10 .div-2 .div-2a {
+    /* background-color: rgb(221, 230, 230); */
+    float: left;
+    margin: 0 3% 0 0;
+    padding-bottom: 20px;
+    width: 47%;
+}
+
+#container-10 .div-2 .div-2a .div-2aa {
+    background-image: url("im1.png");
+    background-size: cover;
+    width: 100%;
+    float: left;
+    margin-bottom: 50px;
+}
+
+#container-10 .div-2 .div-2a .div-2ab {
+    background-color: white;
+    width: 30%;
+    height: 20px;
+    margin: 400px 0 0 0;
+    padding: 20px 100px;
+    float: left;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+
+#container-10 .div-2 .div-2a .div-2ac {
+    background-color: rgb(233, 239, 241);
+    padding: 0 100px;
+}
+
+#container-10 .div-2 .div-2a .div-2ac h1 {
+    width: 90%;
+    color: #041042;
+    font-size: 40px;
+}
+
+#container-10 .div-2 .div-2a .div-2ac p {
+    color: rgba(124, 121, 121, 0.63);
+    font-size: 16px;
+    width: 80%;
+    margin: 20px 0;
+}
+
+#container-10 .div-2 .div-2a .div-2ac a {
+    margin-bottom: 20px;
+    font-size: 16px;
+    display: inline-block;
+    color: royalblue;
+}
+
+
+
+
+/* div-2b */
+#container-10 .div-2 .div-2b {
+    float: left;
+    margin: 0 3% 0 0;
+    padding-bottom: 20px;
+    width: 47%;
+}
+
+#container-10 .div-2 .div-2b .div-2aa {
+    background-image: url("im13.png");
+    background-size: cover;
+    width: 100%;
+    float: left;
+    margin-bottom: 50px;
+}
+
+#container-10 .div-2 .div-2b .div-2ab {
+    background-color: white;
+    width: 30%;
+    height: 20px;
+    margin: 400px 0 0 0;
+    padding: 20px 100px;
+    float: left;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+
+#container-10 .div-2 .div-2b .div-2ac {
+    background-color: rgb(233, 239, 241);
+    padding: 0 100px;
+}
+
+#container-10 .div-2 .div-2b .div-2ac h1 {
+    width: 90%;
+    color: #041042;
+    font-size: 40px;
+}
+
+#container-10 .div-2 .div-2b .div-2ac p {
+    color: rgba(124, 121, 121, 0.63);
+    font-size: 16px;
+    width: 80%;
+    margin: 20px 0;
+}
+
+#container-10 .div-2 .div-2b .div-2ac a {
+    margin-bottom: 20px;
+    font-size: 16px;
+    display: inline-block;
+    color: royalblue;
+}
+
+/* end of 10th part */
+
+
+
+
+
+
+
+/* 11th part */
+
+
+#container-11 {
+    background-image: url("im14.jpg");
+    background-size: cover;
+    margin: 150px 0 0;
+    padding: 50px;
+    height: 700px;
+}
+
+
+#container-11 .main-div-1{
+    display: inline-block;
+    height: 500px;
+    width: 100%;
+}
+
+
+#container-11 .main-div-1 .div-1{
+    float: left;
+    width: 20%;
+    margin: 110px 0 0 70px;
+    padding: 74px 136px 0px -58px;
+    color: white;
+}
+
+
+
+
+
+
+#container-11 .main-div-1 .div-1 p{
+    font-size: 20px;
+    margin: 20px 0;
+    padding: 0;
+    color:gray;
+    font-weight: 100;
+    width: 80%;
+}
+
+#container-11 .main-div-1 .div-1 .span {
+    margin: 20px 0 0 30px;
+}
+
+#container-11 .main-div-1 .div-1 span{
+    font-size: 24px;
+    font-weight: bold;
+    color: #1d3181;
+    margin: -57px 0px 19px 15px;
+}
+
+#container-11 .main-div-1 .div-1 .span1{
+    color: white;
+    margin: 0 0 0 -27px;
+}
+
+
+
+#container-11 .main-div-1 .div-2{
+    float: left;
+    width: 25%;
+    margin: 110px 0 0 77px;
+    padding: 74px 136px 0px -58px;
+    color: white;
+
+}
+
+
+
+
+#container-11 .main-div-1 .div-2{
+    float: left;
+    width: 20%;
+    margin: 111px 0px -8px 41px;
+    padding: 74px 136px 0px -58px;
+    color: white;
+    
+    
+}
+
+
+#container-11 .main-div-1 .div-2 p a{
+    font-size: 18px;
+    margin: 10px 0;
+    color: gray;
+    display: inline-block;
+}
+
+#container-11 .main-div-1 .div-2 h1{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+}
+
+
+#container-11 .main-div-1 .div-3{
+    float: left;
+    width: 20%;
+    margin: 106px 0px 0px 0px;
+    padding: 74px 136px 0px -58px;
+    color: white;
+    
+    
+    
+}
+
+#container-11 .main-div-1 .div-3 h1{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+}
+
+
+
+#container-11 .main-div-1 .div-3 p a{
+    font-size: 18px;
+    margin: 10px 0;
+    color: gray;
+    display: inline-block;
+}
+
+
+#container-11 .main-div-1 .div-4{
+    float: left;
+    width: 20%;
+    margin: 106px 0 0;
+    padding: 74px 136px 0px -58px;
+    color: white;
+
+}
+
+#container-11 .main-div-1 .div-4 h1{
+
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+}
+
+
+
+
+#container-11 .main-div-1 .div-4 p{
+    color:rgb(225, 234, 238);
+    font-size: 17px;
+    margin: 50px 0 0 0;
+}
+
+
+#container-11 .main-div-1 .div-4 input{
+    background-color: rgb(39, 39, 43);
+    margin: 50px -5px 0 0;
+    width: 210px;
+    height: 35px;
+    color: white;
+    border: 1px solid rgb(39, 39, 43) ;
+
+}
+#container-11 .main-div-1 .div-4 label{
+    background-color:rgb(23, 23, 29) ;
+    
+}
+
+#container-11 .main-div-2{
+    margin: 0;
+    font-size: 16px;
+    display: inline-block;
+}
+
+#container-11  hr {
+    border: 1px solid gray;
+}
+
+#container-11 .main-div-2 p{
+    color: gray;
+    margin-top: 30px;
+    float: left;
+}
+
+#container-11 .main-div-2 p a{
+    color: royalblue;
+}
+
+#container-11 .main-div-2 p .fa-heart {
+    color: royalblue;
+}
+
+#container-11 .main-div-2 div {
+    color: white;
+    font-size: 14px;
+    float: left;
+    margin: 30px 0 0 900px;
+}
+
+#container-11 .main-div-2 div i {
+    margin: 0 20px 0 0;
+}
+/* end of 11th part */
